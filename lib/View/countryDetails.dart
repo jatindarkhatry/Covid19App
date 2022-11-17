@@ -55,7 +55,7 @@ class _CountriesDetailState extends State<CountriesDetail> {
               CircleAvatar(
                 radius: 50,
                 backgroundImage: NetworkImage(widget.image),
-              )
+              ),
             ],
           )
         ],
