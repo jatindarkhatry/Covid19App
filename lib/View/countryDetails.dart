@@ -50,7 +50,7 @@ class _CountriesDetailState extends State<CountriesDetail> {
                     ReusableRow(title: "Tests", value: widget.tests.toString()),
                   ],
                 ),
-                ),
+                ),//new
               ),
               CircleAvatar(
                 radius: 50,
